@@ -1,20 +1,12 @@
-MUHAMMAD UMAR — MODERN PERSONAL PORTFOLIO
+MUHAMMAD UMAR — PORTFOLIO WEBSITE
 
-1. Extract this ZIP.
-2. Open the extracted folder in Visual Studio Code.
-3. Open index.html in a browser to preview the website.
-4. Use the navigation menu to visit Home, About, Education, Skills, Experience, Projects and Contact.
+1. Extract this ZIP and open the folder in Visual Studio Code.
+2. Open index.html in a browser to preview.
+3. Pages: Home, About, Education, Skills, Experience, Certificates (projects.html) and Contact.
 
-To edit:
-- Each .html file is an individual page.
-- style.css controls the design.
-- script.js controls the mobile navigation and footer year.
+Editing:
+- style.css controls the design; script.js controls the menu, footer year and certificate viewer.
 - assets/portrait.jpg is the profile picture.
+- Certificate images are in assets/ (cert-*.jpg). To add one, copy a card in projects.html.
 
-To share with your class:
-The ZIP is a website package, not yet a public internet link. Upload the folder to GitHub and enable GitHub Pages to publish it.
-
-Privacy:
-The public website intentionally omits personal phone numbers, CNIC, date of birth and home address.
-Project placeholders are not presented as completed projects. Add real projects as they are completed.
-\n\nUPDATE: Askari Bank Limited internship added to Experience and Projects pages. The certificate PDF is included in assets. Its CNIC number has been concealed for privacy.\n
+Publishing: upload the folder to GitHub and enable GitHub Pages (Settings > Pages).
